@@ -19,7 +19,7 @@ A new Flutter project.
 
 <h3>for github command </h3>
 <ui>echo "# easy_localization" >> README.md
->git init
+> `git init`
 >git add README.md
 >git commit -m "first commit"
 >git branch -M main
