@@ -14,7 +14,7 @@ flutter pub run easy_localization:generate -S "assets/translations" -O "lib/tran
 
 </ui>
 
-for github command 
+<h3>for github command </h3>
 <ui>echo "# easy_localization" >> README.md
 git init
 git add README.md
