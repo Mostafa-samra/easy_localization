@@ -9,10 +9,10 @@ A new Flutter project.
 <ui>
  
   
-> flutter pub run easy_localization:generate -S "assets/translations" -O "lib/translations"
+> `flutter pub run easy_localization:generate -S "assets/translations" -O "lib/translations"`
 
   
-> flutter pub run easy_localization:generate -S "assets/translations" -O "lib/translations" -o "locale_keys.g.dart" -f keys
+> `flutter pub run easy_localization:generate -S "assets/translations" -O "lib/translations" -o "locale_keys.g.dart" -f keys`
 
   
 </ui>
@@ -22,10 +22,15 @@ A new Flutter project.
 `echo "# easy_localization" >> README.md`
 
  `git init`
+ 
 `git add README.md`
+
 `git commit -m "first commit"`
+
 `git branch -M main`
+
 `git remote add origin https://github.com/Mostafa-samra/easy_localization.git`
+
 `git push -u origin main`
 
 
