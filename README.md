@@ -18,14 +18,17 @@ A new Flutter project.
 </ui>
 
 <h3>for github command </h3>
-<ui>echo "# easy_localization" >> README.md
-> `git init`
->git add README.md
->git commit -m "first commit"
->git branch -M main
->git remote add origin https://github.com/Mostafa-samra/easy_localization.git
->git push -u origin main
-</ui>
+
+`echo "# easy_localization" >> README.md`
+
+ `git init`
+`git add README.md`
+`git commit -m "first commit"`
+`git branch -M main`
+`git remote add origin https://github.com/Mostafa-samra/easy_localization.git`
+`git push -u origin main`
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
